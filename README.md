@@ -1,4 +1,6 @@
-�
+<div align="center">
+  <img src="foto_arya.jpg" width="150" style="border-radius: 50%"/>
+</div>
 
 Hi, I'm Arya 👋
 Mahasiswa Teknik Informatika | Web Developer | Future Innovator
