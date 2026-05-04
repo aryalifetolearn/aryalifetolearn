@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="foto_arya.jpg" width="150" style="border-radius: 50%"/>
+  <img src="foto_arya.jpeg" width="150" style="border-radius: 50%"/>
 </div>
 
 Hi, I'm Arya 👋
