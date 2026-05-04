@@ -17,6 +17,7 @@ const arya = {
   currentlyBuilding: "Web Development & Automation Services 🚀",
   funFact: "Mulai bisnis dari semester 1 💪"
 };
+
 🛠️ Tech Stack
 �
 �
