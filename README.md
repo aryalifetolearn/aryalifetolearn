@@ -1,7 +1,7 @@
 <table>
 <tr>
 <td width="150">
-<img src="foto_arya.jpeg" width="120" height="120" style="border-radius:50%"/>
+<img src="foto.jpeg" width="120" height="120" style="border-radius:50%"/>
 </td>
 <td>
 <h1>Hi, I'm Arya 👋</h1>
