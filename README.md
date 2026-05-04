@@ -6,7 +6,7 @@
 <td>
 <h1>Hi, I'm Arya 👋</h1>
 <b>Mahasiswa Teknik Informatika | Web Developer | Future Innovator</b><br/><br/>
-🎓 Teknik Informatika @ UMC &nbsp;|&nbsp; Semester 1<br/>
+🎓 Teknik Informatika @ UMC &nbsp;|&nbsp; Semester 2<br/>
 💻 HTML • CSS • JavaScript<br/>
 🚀 Building: Web Dev & Automation Services<br/>
 🎯 Goal: Inovator Teknologi & S2 ITB
