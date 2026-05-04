@@ -1,6 +1,4 @@
-<div align="center">
-  <img src="foto_arya.jpeg" width="150" style="border-radius: 50%"/>
-</div>
+<img src="foto.jpeg" width="120" style="border-radius: 50%; float: left; margin-right: 20px; margin-bottom: 10px;"/>
 
 Hi, I'm Arya 👋
 Mahasiswa Teknik Informatika | Web Developer | Future Innovator
